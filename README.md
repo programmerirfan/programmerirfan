@@ -1,4 +1,4 @@
-![Programmer Irfan](https://user-images.githubusercontent.com/98705913/234669110-0476e7fd-b75f-4acf-8c1a-f95afcccb2a7.jpg)
+![Programmer Irfan]
 
 
 ### Hi there , Programmer Irfan Here
