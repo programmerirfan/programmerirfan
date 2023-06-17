@@ -3,10 +3,10 @@
 
 
 ### Hi there , Programmer Irfan Here
-#### I am a Full-time MERN Stack Web Application Developer.
+#### I am a Full-time 𝙈𝙀𝙍𝙉 Stack Web Application Developer.
 
 
-𝙈𝙀𝙍𝙉 Stack Web Developer With a Proven Track Record of Delivering 𝑯𝑰𝑮𝑯-Qᴜᴀʟɪᴛʏ Web Applications.
+Full Stack Web Developer With a Proven Track Record of Delivering 𝑯𝑰𝑮𝑯-Qᴜᴀʟɪᴛʏ Web Applications.
 
 Skills: NODE / REACT / JS / HTML / CSS
 
